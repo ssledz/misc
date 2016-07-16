@@ -1,0 +1,1 @@
+gpg --encrypt $1
